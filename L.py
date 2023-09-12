@@ -1,1 +1,1 @@
-This is Luffy
+Print("This is Luffy")
